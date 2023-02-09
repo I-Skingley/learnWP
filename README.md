@@ -1,0 +1,1 @@
+First look into custom wp themes and woocommerce
